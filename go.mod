@@ -24,7 +24,7 @@ require (
 	github.com/rs/zerolog v1.29.1
 	github.com/sashabaranov/go-openai v1.11.3
 	github.com/swaggo/swag v1.16.1
-	github.com/tmc/langchaingo v0.0.0-20230628165432-e510561c17f9
+	github.com/tmc/langchaingo v0.0.0-20230701162323-81dcfa6b690d
 	github.com/urfave/cli/v2 v2.25.7
 	github.com/valyala/fasthttp v1.48.0
 	gopkg.in/yaml.v2 v2.4.0
